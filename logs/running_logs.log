@@ -1,1 +1,17 @@
 [2025-03-15 14:38:16,459: INFO: main: Welcome to Kidney Disease Classification]
+[2025-03-15 15:41:46,213: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-15 15:41:46,219: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-15 15:41:46,221: INFO: common: created directory at: artifacts]
+[2025-03-15 15:41:46,221: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-15 15:41:46,222: INFO: 1512110712: Downloading data from https://drive.google.com/file/d/1iUgY8DYoSO7aL3FfC5-nH4nOb1akbS-x/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-15 15:41:53,967: INFO: 1512110712: Downloaded data from https://drive.google.com/file/d/1iUgY8DYoSO7aL3FfC5-nH4nOb1akbS-x/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-15 16:45:53,598: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-15 16:45:53,598: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-15 16:45:53,614: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-15 16:45:53,614: INFO: common: created directory at: artifacts]
+[2025-03-15 16:45:53,614: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-15 16:45:53,615: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1iUgY8DYoSO7aL3FfC5-nH4nOb1akbS-x/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-15 16:46:02,231: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1iUgY8DYoSO7aL3FfC5-nH4nOb1akbS-x/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-15 16:46:02,702: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
